@@ -1211,7 +1211,7 @@ ________
        cout<<"              ........DISCLAIMER........\n\n\n";
        cout<<"This is the prototype of GUI based Operating System \n";
        cout<<"running on DOS base.   NOT FOR COMMERCIAL USE!!\n\n";
-       cout<<"This OS Shell was developed as part of class 12 C++ project\n\n";
+       cout<<"This OS GUI was developed as part of class 12 C++ project\n\n";
        cout<<"Developed By :\n\n";
        cout<<"     Yadev Jayachandran\n\n";
        
