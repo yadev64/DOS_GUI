@@ -440,32 +440,10 @@ ________
 	 delay(70);
 	  cleardevice();
 	settextstyle(i, HORIZ_DIR, 6);
-	outtextxy((x/2)-140+5*i,y/2,"WELCOME");
+	outtextxy((x/2)-140+5,y/2,"WELCOME");
 
        }
 
-
-	for(i=4;i>=0;i--)
-	{
-	 setcolor(WHITE);
-	  setbkcolor(BLACK);
-	  delay(70);
-	   cleardevice();
-	settextstyle(i, HORIZ_DIR, 6);
-	outtextxy((x/2)-140-5*i,y/2,"WELCOME");
-
-       }
-
-		for(i=0;i<4;i++)
-	{
-	 setcolor(8);
-	  setbkcolor(WHITE);
-	  delay(70);
-	   cleardevice();
-	settextstyle(i, HORIZ_DIR, 6);
-	outtextxy((x/2)-140+5*i,y/2,"WELCOME");
-
-       }
      }
     }
 
@@ -1168,7 +1146,7 @@ ________
 
 	   cout<<"Hi...I'm Nikki.\n";
 	   cout<<"whats your name?\n";
-	   gets(n);
+	   cin>>n;
 	   cout<<n<<" .Nice name of yours.\n";
 	   cout<<"where do you live "<<n<<endl;
 	   cin>>p;
