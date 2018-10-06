@@ -1321,8 +1321,8 @@ ________
            		break;
         	}// end of power function
 		}//end of outer switch
-	}while(letter != '5');
-}
+	 }while(letter != '5');
+	}
 
 	 void ai()
 	  {
