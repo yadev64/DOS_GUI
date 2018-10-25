@@ -811,7 +811,7 @@ ________
 		     cout<<"good.\now tell me its breadth\n";
 		     int b=0;
 		     cin>>b;
-		     cout<<"Thanks.\nnow let me calculate its AREA...in a count of 3 2 1";
+		     cout<<"Thanks.\nnow let me calculate its AREA...Just a moment...";
 		     delay(3000);
 		     cout<<"Got it!"<<endl;
 		     int ar=0;
