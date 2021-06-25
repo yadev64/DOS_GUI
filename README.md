@@ -1,7 +1,11 @@
 # DOS_GUI
 
-In this hobby project, we try to build a simple GUI for the much beloved MS DOS.
+In this project, we try to build a simple GUI for the much beloved MS DOS.
 Development and testing has been done in Turbo C++ running on DOS BOX environment.
+
+This is purely a hobby project, which was done to explore the capabilities of Graphics.H and to understand the efforts put in by engineers who used to build graphical interfaces with just C/C++ back in the golden age of computers. This greatly helped me to understand how to draw and translate graphical objects mathematically :)
+
+Year of development: 2016
 
 ## Screenshots
 
