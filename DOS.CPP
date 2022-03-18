@@ -188,7 +188,7 @@ ________
 										/*
     ......................FUNCTION DEFENITIONS.........................         */
 
-      void gfx()
+      void gfx() //Graphics Driver
        {
 	int gdriver = DETECT,gmode;
 	initgraph(&gdriver,&gmode,"C:\\TC\\BGI");
@@ -205,7 +205,7 @@ ________
 	}
 
 
-	 void boot()
+	 void boot() //Boot animation
 	{
 	 clrscr();
 	 gfx();
@@ -317,7 +317,7 @@ ________
 	     };
 
 
-	void bootlog()
+	void bootlog()   //Boot Login
 	{
 	 gfx();
 	 int x=0,y=0;
